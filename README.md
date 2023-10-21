@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello there, I'm Zeze 👋 
+- volunteer staff in HITCON
+- security researcher at TeamT5
+- member of BambooFox and ⚔️TSJ⚔️ CTF teams
+- speaker in HITCON CMT 2022, HITCON CMT 2023, VXCON 2022, and CYBERSEC 2023
 
-<!--
-**zeze-zeze/zeze-zeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeze-zeze&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeze-zeze&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeze-zeze&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeze-zeze&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeze-zeze&theme=github&utcOffset=8)
