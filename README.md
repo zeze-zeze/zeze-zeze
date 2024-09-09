@@ -1,8 +1,8 @@
 👋 Hello there, I'm Zeze 👋 
 - volunteer staff in HITCON
-- security researcher at TeamT5
+- research engineer at TeamT5
 - member of BambooFox and ⚔️TSJ⚔️ CTF teams
-- speaker in HITCON CMT 2022, HITCON CMT 2023, VXCON 2022, CYBERSEC 2023, and CODE BLUE 2023
+- speaker in HITCON CMT 2022, HITCON CMT 2023, VXCON 2022, CYBERSEC 2023, CODE BLUE 2023, and HITCON CMT 2024
 
 <hr/>
 
