@@ -2,7 +2,7 @@
 - volunteer staff in HITCON
 - research engineer at TeamT5
 - member of BambooFox and ⚔️TSJ⚔️ CTF teams
-- speaker in HITCON CMT 2022~2024, VXCON 2022, SITCON 2022, CYBERSEC 2023, CODE BLUE 2023, ROOTCON 2024
+- speaker in HITCON CMT 2022~2024, VXCON 2022, SITCON 2022, CYBERSEC 2023 & 2025, CODE BLUE 2023, ROOTCON 2024
 
 <hr/>
 
